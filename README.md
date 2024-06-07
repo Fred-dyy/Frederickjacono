@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Frederickjacono
+- 👋 Hi, I’m @Fred-dyy
 - 👀 I’m interested in ... Software Engineering and Data Science
 - 🌱 I’m currently learning ... Software Engineering
 - 💞️ I’m looking to collaborate on ... Anything
