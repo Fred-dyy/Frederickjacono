@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frederickjacono
-- 👀 I’m interested in ... Programming and Penetration Testing
-- 🌱 I’m currently learning ... Programming and Penetration Testing
+- 👀 I’m interested in ... Software Engineering and Data Science
+- 🌱 I’m currently learning ... Software Engineering
 - 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... Github
 
